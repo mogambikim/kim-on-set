@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Kim's On Set - Payment</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <header>
+    
+  </header>
+
+  <main>
+    <h2>Payment Mode</h2>
+    <p>We accept payments via Lipa Na M-Pesa till number xxxxxx.</p>
+  </main>
+
+  <footer>
+    <!-- Footer content -->
+  </footer>
+</body>
+</html>
+
